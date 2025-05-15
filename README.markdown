@@ -168,15 +168,12 @@ Please adhere to PEP 8 style guidelines and include tests where applicable.
 
 ## Issues
 
-Report bugs or ask questions on the [GitHub Issues page](https://github.com/<your-username>/ResidualSpatialNet/issues). Include:
+Report bugs or ask questions on the [GitHub Issues page](https://github.com/hrid0yyy/ResidualSpatialNet/issues). Include:
 - Python and library versions.
 - Dataset details.
 - Error messages or logs.
 - Steps to reproduce.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
@@ -186,4 +183,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For inquiries, contact [Your Name] at [your.email@example.com] or open a GitHub issue.
+For inquiries, contact [Hridoy Ahmed] at [hridoyahmedddd@gmail.com] or open a GitHub issue.
