@@ -183,4 +183,4 @@ Report bugs or ask questions on the [GitHub Issues page](https://github.com/hrid
 
 ## Contact
 
-For inquiries, contact [Hridoy Ahmed] at [hridoyahmedddd@gmail.com] or open a GitHub issue.
+For inquiries, contact me at hridoyahmedddd@gmail.com or open a GitHub issue.
